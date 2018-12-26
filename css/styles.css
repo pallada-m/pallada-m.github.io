@@ -1,0 +1,140 @@
+html{
+	padding: 30px;
+	height: 100%;
+	width: 100%;
+	min-width: 1736px;
+	background-image: url(../pictures/background.png);
+	background-repeat: repeat;
+	background-size: cover;
+	background-position: center;
+}
+body{
+	background-color: transparent;
+	color: white;
+	width: 100%;
+}
+.number-display{
+	font-family: 'Roboto', sans-serif;
+	background-color: #e6e6e6;
+	color: #000;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	text-align: center;
+	width: 100%;
+}
+.top-left-col-div{
+	margin-top: 40px;
+}
+.third-row-unit{
+	background: rgba(256, 256, 256, 0.2);
+	font-family: 'Ubuntu', sans-serif;
+	color: white;
+	height: 200px;
+	line-height: 16px;
+}
+.third-row-unit span{
+	display: inline-block;
+	vertical-align: middle;
+	line-height: 18px;
+}
+.third-row-unit img{
+	width: 145px;
+	height: 145px;
+}
+.icon{
+	padding: 25px;
+	margin: 20px;
+}
+.text{
+	margin: 20px;
+	text-align: left;
+	vertical-align: middle;
+	display: table-cell;
+	font-family: 'Ubuntu', sans-serif;
+}
+.text span{
+	display: table-cell;
+  	vertical-align: middle;
+  	line-height: 25px;
+}
+.flex-container{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.flex-item{
+	display: flex;
+	align-items: center;
+	justify-content: center;
+}
+.link{
+	padding-top: 80px;
+	align-content: center;
+	vertical-align: middle;
+	position: relative;
+	display: inline-block;
+	padding-left: auto;
+	padding-right: auto;
+	margin: 20px;
+	font-family: 'Ubuntu', sans-serif;
+}
+.link span{
+	display: inline-block;
+	vertical-align: middle;
+}
+.contact{
+	font-size: 30px;
+	margin-top: 20px;
+	margin-bottom: 20px;
+	line-height: 35px;
+	width: 1660px;
+	font-family: 'Roboto', sans-serif;
+}
+#space{
+	height: 20vh;
+}
+#first-row h3{
+	font-size: 20px;
+}
+#first-row{
+}
+#second-row{
+	padding: 50px;
+}
+#second-row h3{
+	text-align: left;
+}
+#top-image{
+	margin-left: auto;
+	margin-right: auto;
+	min-height: 20vh;
+	height: 100%;
+	width: auto;
+}
+#top-information{
+	height: 80vh;
+}
+#top-title{
+	height: 150px;
+	width: 99999px;
+	color: #000000;
+	background-color: #e6e6e6;
+	vertical-align: middle;
+	display: table-cell;
+}
+#top-info-text{
+	padding-top: 50px;
+	padding-bottom: 50px;
+	background: rgba(256, 256, 256, 0.2);
+	font-family: 'Ubuntu', sans-serif;
+}
+#top-stats{
+	background: rgba(256, 256, 256, 0.2);
+	font-family: 'Ubuntu', sans-serif;
+}
+#top-info-text h3{
+	padding: 15px;
+}
+#top-title h1{
+	font-family: 'Roboto', sans-serif;
+}
