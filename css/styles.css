@@ -2,7 +2,7 @@ html{
 	padding: 30px;
 	height: 100%;
 	width: 100%;
-	min-width: 1736px;
+	min-width: 100%;
 	background-image: url(../pictures/background.png);
 	background-repeat: repeat;
 	background-size: cover;
