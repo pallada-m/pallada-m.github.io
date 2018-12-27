@@ -2,6 +2,7 @@ html{
 	padding: 30px;
 	height: 100%;
 	width: 100%;
+	min-width: 1736px;
 	background-image: url(../pictures/background.png);
 	background-repeat: repeat;
 	background-size: cover;
@@ -28,7 +29,7 @@ body{
 	background: rgba(256, 256, 256, 0.2);
 	font-family: 'Ubuntu', sans-serif;
 	color: white;
-	height: 250px;
+	height: 200px;
 	line-height: 16px;
 }
 .third-row-unit span{
